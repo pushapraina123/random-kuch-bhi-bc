@@ -1,3 +1,3 @@
 # learn git and github
 trying to learn github
-depression m hoon doston
+depression m hoon bhaii logon
