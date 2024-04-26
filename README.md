@@ -1,2 +1,2 @@
-# random-kuch-bhi-bc
+# learn git and github
 trying to learn github
